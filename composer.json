@@ -1,5 +1,5 @@
 {
-  "name": "maslakoff/php-etherscan-api",
+  "name": "gerka/php-etherscan-api",
   "type": "library",
   "description": "PHP client for the Etherscan API",
   "homepage": "https://github.com/maslakoff/php-etherscan-api",
